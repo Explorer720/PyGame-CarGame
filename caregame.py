@@ -7,7 +7,7 @@ from random import randint
 pg.font.init()
 pg.mixer.init()
 
-
+#defining player andplayer image
 def player():
     screen.blit(cars_img[0], (player_x - int(car_x / 2), player_y - int(car_y / 2)))
 
