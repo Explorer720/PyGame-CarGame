@@ -1,3 +1,7 @@
+#importing pygame module
+#befor importing ,you have to install it in system
+#installing code >>>pip install pygame  in cmd or powershell or terminal
+
 import pygame as pg
 from random import randint
 pg.font.init()
